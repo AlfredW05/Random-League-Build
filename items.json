@@ -1,0 +1,521 @@
+{
+    "items": [
+        {
+            "name": "Abyssal Mask",
+            
+            "unique": true
+        },
+        {
+            "name": "Anathema's Chains",
+            
+            "unique": true
+        },
+        {
+            "name": "Archangel's Staff",
+            "type": ["mana charge", "lifeline"],
+            "unique": true
+        },
+        {
+            "name": "Ardent Censer",
+            
+            "unique": true
+        },
+        {
+            "name": "Axiom Arc",
+            
+            "unique": true
+        },
+        {
+            "name": "Banshee's Veil",
+            "type": "annul",
+            "unique": true
+        },
+        {
+            "name": "Black Cleaver",
+            "type": "anti armour",
+            "unique": true
+        },
+        {
+            "name": "Blade of the Ruined King",
+            
+            "unique": true
+        },
+        {
+            "name": "Bloodsong",
+            "type": ["supp/jungle", "spellblade"],
+            "unique": true
+        },
+        {
+            "name": "Bloodthirster",
+            
+            "unique": true
+        },
+        {
+            "name": "Bounty of Worlds",
+            "type": "supp/jungle",
+            "unique": true
+        },
+        {
+            "name": "Celestial Opposition",
+            "type": "supp/jungle",
+            "unique": true
+        },
+        {
+            "name": "Chempunk Chainsword",
+            
+            "unique": true
+        },
+        {
+            "name": "Cosmic Drive",
+            
+            "unique": true
+        },
+        {
+            "name": "Cryptbloom",
+            "type": "Void pen",
+            "unique": true
+        },
+        {
+            "name": "Dawncore",
+            
+            "unique": true
+        },
+        {
+            "name": "Dead Man's Plate",
+            "type": "momentum",
+            "unique": true
+        },
+        {
+            "name": "Death's Dance",
+            
+            "unique": true
+        },
+        {
+            "name": "Dream Maker",
+            "type": "supp/jungle",
+            "unique": true
+        },
+        {
+            "name": "Echoes of Helia",
+            
+            "unique": true
+        },
+        {
+            "name": "Eclipse",
+            
+            "unique": true
+        },
+        {
+            "name": "Edge of Night",
+            "type": "annul",
+            "unique": true
+        },
+        {
+            "name": "Essence Reaver",
+            "type": "spellblade",
+            "unique": true
+        },
+        {
+            "name": "Experimental Hexplate",
+            
+            "unique": true
+        },
+        {
+            "name": "Fimbulwinter",
+            "type": "mana charge",
+            "unique": true
+        },
+        {
+            "name": "Force of Nature",
+            
+            "unique": true
+        },
+        {
+            "name": "Frozen Heart",
+            
+            "unique": true
+        },
+        {
+            "name": "Guardian Angel",
+            
+            "unique": true
+        },
+        {
+            "name": "Guinsoo's Rageblade",
+            
+            "unique": true
+        },
+        {
+            "name": "Heartsteel",
+            
+            "unique": true
+        },
+        {
+            "name": "Hextech Rocketbelt",
+            
+            "unique": true
+        },
+        {
+            "name": "Hollow Radiance",
+            "type": "immolate",
+            "unique": true
+        },
+        {
+            "name": "Horizon Focus",
+            
+            "unique": true
+        },
+        {
+            "name": "Hubris",
+            
+            "unique": true
+        },
+        {
+            "name": "Hullbreaker",
+            
+            "unique": true
+        },
+        {
+            "name": "Iceborn Gauntlet",
+            "type": "spellblade",
+            "unique": true
+        },
+        {
+            "name": "Immortal Shieldbow",
+            "type": "lifeline",
+            "unique": true
+        },
+        {
+            "name": "Imperial Mandate",
+            
+            "unique": true
+        },
+        {
+            "name": "Infinity Edge",
+            "type": "crit multiplier",
+            "unique": true
+        },
+        {
+            "name": "Jak'Sho, The Protean",
+            
+            "unique": true
+        },
+        {
+            "name": "Kaenic Rookern",
+            
+            "unique": true
+        },
+        {
+            "name": "Knight's Vow",
+            
+            "unique": true
+        },
+        {
+            "name": "Kraken Slayer",
+            
+            "unique": true
+        },
+        {
+            "name": "Liandry's Torment",
+            
+            "unique": true
+        },
+        {
+            "name": "Lich Bane",
+            "type": "spellblade",
+            "unique": true
+        },
+        {
+            "name": "Locket of the Iron Solari",
+            
+            "unique": true
+        },
+        {
+            "name": "Lord Dominik's Regards",
+            "type": "anti armour",
+            "unique": true
+        },
+        {
+            "name": "Luden's Companion",
+            
+            "unique": true
+        },
+        {
+            "name": "Malignance",
+            
+            "unique": true
+        },
+        {
+            "name": "Manamune",
+            "type": "mana charge",
+            "unique": true
+        },
+        {
+            "name": "Maw of Malmortius",
+            "type": "lifeline",
+            "unique": true
+        },
+        {
+            "name": "Mejai's Soulstealer",
+            "type": "glory",
+            "unique": true
+        },
+        {
+            "name": "Mercurial Scimitar",
+            "type": "quicksilver",
+            "unique": true
+        },
+        {
+            "name": "Mikael's Blessing",
+            
+            "unique": true
+        },
+        {
+            "name": "Moonstone Renewer",
+            
+            "unique": true
+        },
+        {
+            "name": "Morellonomicon",
+            
+            "unique": true
+        },
+        {
+            "name": "Mortal Reminder",
+            "type": "anti armour",
+            "unique": true
+        },
+        {
+            "name": "Muramana",
+            "type": "mana charge",
+            "unique": true
+        },
+        {
+            "name": "Nashor's Tooth",
+            
+            "unique": true
+        },
+        {
+            "name": "Navori Quickblades",
+            "type": "crit multiplier",
+            "unique": true
+        },
+        {
+            "name": "Opportunity",
+            
+            "unique": true
+        },
+        {
+            "name": "Phantom Dancer",
+            
+            "unique": true
+        },
+        {
+            "name": "Profane Hydra",
+            "type": "cleave",
+            "unique": true
+        },
+        {
+            "name": "Rabadon's Deathcap",
+            
+            "unique": true
+        },
+        {
+            "name": "Randuin's Omen",
+            "unique": true
+        },
+        {
+            "name": "Rapid Firecannon",
+            "unique": true
+        },
+        {
+            "name": "Ravenous Hydra",
+            "type": "cleave",
+            "unique": true
+        },
+        {
+            "name": "Redemption",
+            "unique": true
+        },
+        {
+            "name": "Riftmaker",
+            "unique": true
+        },
+        {
+            "name": "Rod of Ages",
+            "type": "eternity",
+            "unique": true
+        },
+        {
+            "name": "Runaan's Hurricane",
+            "unique": true
+        },
+        {
+            "name": "Rylai's Crystal Scepter",
+            "unique": true
+        },
+        {
+            "name": "Serpent's Fang",
+            "unique": true
+        },
+        {
+            "name": "Serylda's Grudge",
+            "type": "anti armour",
+            "unique": true
+        },
+        {
+            "name": "Shadowflame",
+            "unique": true
+        },
+        {
+            "name": "Shurelya's Battlesong",
+            "unique": true
+        },
+        {
+            "name": "Solstice Sleigh",
+            "type": "supp/jungle",
+            "unique": true
+        },
+        {
+            "name": "Spear of Shojin",
+            "unique": true
+        },
+        {
+            "name": "Spirit Visage",
+            "unique": true
+        },
+        {
+            "name": "Staff of Flowing Water",
+            "unique": true
+        },
+        {
+            "name": "Statikk Shiv",
+            "unique": true
+        },
+        {
+            "name": "Sterak's Gage",
+            "type": "lifeline",
+            "unique": true
+        },
+        {
+            "name": "Stormrazor",
+            "unique": true
+        },
+        {
+            "name": "Stormsurge",
+            "unique": true
+        },
+        {
+            "name": "Stridebreaker",
+            "unique": true
+        },
+        {
+            "name": "Sundered Sky",
+            "unique": true
+        },
+        {
+            "name": "Sunfire Aegis",
+            "type": "immolate",
+            "unique": true
+        },
+        {
+            "name": "Terminus",
+            "type": ["Void pen","anti armour"],
+            "unique": true
+        },
+        {
+            "name": "The Collector",
+            "unique": true
+        },
+        {
+            "name": "Thornmail",
+            "unique": true
+        },
+        {
+            "name": "Titanic Hydra",
+            "type": "cleave",
+            "unique": true
+        },
+        {
+            "name": "Trailblazer",
+            "type": "momentum",
+            "unique": true
+        },
+        {
+            "name": "Trinity Force",
+            "type": "spellblade",
+            "unique": true
+        },
+        {
+            "name": "Umbral Glaive",
+            "unique": true
+        },
+        {
+            "name": "Unending Despair",
+            "unique": true
+        },
+        {
+            "name": "Vigilant Wardstone",
+            "type": "sightstone",
+            "unique": true
+        },
+        {
+            "name": "Void Staff",
+            "type": "Void pen",
+            "unique": true
+        },
+        {
+            "name": "Voltaic Cyclosword",
+            "unique": true
+        },
+        {
+            "name": "Warmog's Armor",
+            "unique": true
+        },
+        {
+            "name": "Wit's End",
+            "unique": true
+        },
+        {
+            "name": "Youmuu's Ghostblade",
+            "unique": true
+        },
+        {
+            "name": "Zaz'Zak's Realmspike",
+            "type": "supp/jungle",
+            "unique": true
+        },
+        {
+            "name": "Zeke's Convergence",
+            "unique": true
+        },
+        {
+            "name": "Boots of Swiftness",
+            "type": "boots"
+          },
+          {
+            "name": "Ionian Boots of Lucidity",
+            "type": "boots"
+          },
+          {
+            "name": "Mercury's Treads",
+            "type": "boots"
+          },
+          {
+            "name": "Mobility Boots",
+            "type": "boots"
+          },
+          {
+            "name": "Plated Steelcaps",
+            "type": "boots"
+          },
+          {
+            "name": "Sorcerer's Shoes",
+            "type": "boots"
+          },
+          {
+            "name": "Berserker's Greaves",
+            "type": "boots"
+          }
+        ]
+      }
